@@ -33,6 +33,11 @@ dependencies:
   bloc:
   flutter_bloc:
   http:
+  lottie:
+  freezed_annotation:
+  json_annotation:
+  build_runner: 
+  json_serializable:
   
 
 
